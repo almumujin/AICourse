@@ -1,4 +1,4 @@
-# AICourse
+# AICourse!!!
 Here are some of my notes on AI learning！
 This learning route is divided into the following stages：
 ## 1.Basic Essentials
@@ -21,7 +21,7 @@ This learning route is divided into the following stages：
       2.Socket原理与粘包
       3.Socketserver
       4.Ftp详解
-     5.进程与线程基础
+      5.进程与线程基础
       6.锁、信号量、线程、队列
-       7.事件、IO、select
-       8.异步IO
+      7.事件、IO、select
+      8.异步IO
