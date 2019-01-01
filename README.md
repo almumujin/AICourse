@@ -18,12 +18,11 @@ This learning route is divided into the following stages：
       ...
       ...
  ### (3)Python Network Programming
-      [1.异常处理与网络基础](https://github.com/almumujin/AICourse/
-      tree/master/Stage01/part03/%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86%E4%B8%8E%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80)
-      2.Socket原理与粘包
-      3.Socketserver
-      4.Ftp详解
-      5.进程与线程基础
-      6.锁、信号量、线程、队列
-      7.事件、IO、select
-      8.异步IO
+   >>[1.异常处理与网络基础](https://github.com/almumujin/AICourse/tree/master/Stage01/part03/%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86%E4%B8%8E%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80)<br>
+      2.Socket原理与粘包<br>
+      3.Socketserver<br>
+      4.Ftp详解<br>
+      5.进程与线程基础<br>
+      6.锁、信号量、线程、队列<br>
+      7.事件、IO、select<br>
+      8.异步IO<br>
