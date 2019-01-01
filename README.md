@@ -5,7 +5,8 @@ This learning route is divided into the following stages：
 ## 2.Advanced Mathematics Chapter
 ## 3.Improvement of Algorithmic Foundation
 ## 4.Machine Learning and Deep Learning Chapter
-## 5.Data Analysis and Mining ## 6.Natural language processing<br><br><br><br>
+## 5.Data Analysis and Mining 
+## 6.Natural language processing<br><br><br><br>
 
 ## 1.Basic Essentials:
  ### (1)Computer and Linux Foundation
@@ -17,7 +18,7 @@ This learning route is divided into the following stages：
       ...
       ...
  ### (3)Python Network Programming
-      1.异常处理与网络基础
+     > 1.异常处理与网络基础
       2.Socket原理与粘包
       3.Socketserver
       4.Ftp详解
